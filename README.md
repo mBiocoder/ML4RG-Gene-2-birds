@@ -4,7 +4,7 @@ Unveiling Bird Morphology Evolution through Deep-Learning Based Image Embedding 
 *Introduction*
 
 Birds exhibit a wide range of sizes, shapes, colors, and behaviors. This diversity has captured the attention of researchers for centuries.
-By expanding our understanding of avian biology, we hope to get a deeper insight into bird evolution, adaptation, ecology or even conservation. \\
+By expanding our understanding of avian biology, we hope to get a deeper insight into bird evolution, adaptation, ecology or even conservation. 
 Specifically, unraveling the genetic code that defines this plethora of avian coloration is of particular interest for this project. We leveraged the deep learning model CLIP (Contrastive Language-Image Pretraining) from OpenAI in order to analyze the intricate relationship between bird images and their respective genetic information. The CLIP image embeddings were utilized as input to train and evaluate multiple classifiers with the aim to predict the presence or absence of certain coloration genes of interest. The performance of these classifiers was then thoroughly inspected and benchmarked.
 
 
